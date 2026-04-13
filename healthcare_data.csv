@@ -1,0 +1,121 @@
+ELIGIBILITYYEARANDMONTH,MEMBERID,MEMBERUCI,PRODUCTDESCR,PRODUCTTYPEDESCR,ACCOUNTID,ACCOUNTNAME,SUBSCRIBERID,FSRESPONSIBILITY,FSPRODUCT,LINEOFBUSINESS,AGE,GENDER,COUNTY,ZIPCODE,MEDICAL_PAID,RX_PAID,PAID,COST_CATEGORY,AVOIDED,AVOIDIP,EDVISITS,IPVISITS,AGE_CATEGORY
+202501,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,7356,872,8228,Moderate: Total Cost $5k-$9.9k,1,0,2,0,65-74
+202502,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,7581,215,7796,Moderate: Total Cost $5k-$9.9k,1,1,1,2,65-74
+202503,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,8002,709,8711,Moderate: Total Cost $5k-$9.9k,0,0,0,0,65-74
+202504,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,6353,287,6640,Moderate: Total Cost $5k-$9.9k,0,1,0,2,65-74
+202505,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,1745,852,2597,Rising: Total Cost $2.5k-$5k,1,0,1,0,65-74
+202506,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,9052,465,9517,Moderate: Total Cost $5k-$9.9k,0,1,0,2,65-74
+202507,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,7512,537,8049,Moderate: Total Cost $5k-$9.9k,1,1,1,1,65-74
+202508,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,0,0,0,Zero Cost,0,1,0,2,65-74
+202509,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,4809,44,4853,Rising: Total Cost $2.5k-$5k,1,0,2,0,65-74
+202510,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,5172,906,6078,Moderate: Total Cost $5k-$9.9k,1,0,2,0,65-74
+202511,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,3412,670,4082,Rising: Total Cost $2.5k-$5k,1,1,2,3,65-74
+202512,M00001,9862236,PSC Plan 2,Medical Product,A0006500,PSC Medicare,504873654,PHP,Medicare Advantage HMO,Medicare,67,F,Sandoval,87124,7151,412,7563,Moderate: Total Cost $5k-$9.9k,1,0,2,0,65-74
+202501,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,3002,616,3618,Rising: Total Cost $2.5k-$5k,0,0,0,0,75-84
+202502,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,6256,227,6483,Moderate: Total Cost $5k-$9.9k,0,0,0,0,75-84
+202503,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,9423,297,9720,Moderate: Total Cost $5k-$9.9k,0,0,0,0,75-84
+202504,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,9021,517,9538,Moderate: Total Cost $5k-$9.9k,1,0,2,0,75-84
+202505,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,7028,410,7438,Moderate: Total Cost $5k-$9.9k,0,1,0,1,75-84
+202506,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,868,807,1675,Low: Not high Cost,1,0,3,0,75-84
+202507,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,6207,750,6957,Moderate: Total Cost $5k-$9.9k,0,1,0,3,75-84
+202508,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,6803,22,6825,Moderate: Total Cost $5k-$9.9k,1,0,2,0,75-84
+202509,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,5972,664,6636,Moderate: Total Cost $5k-$9.9k,0,1,0,3,75-84
+202510,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,6006,986,6992,Moderate: Total Cost $5k-$9.9k,1,1,1,1,75-84
+202511,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,8521,512,9033,Moderate: Total Cost $5k-$9.9k,1,1,2,1,75-84
+202512,M00002,6640129,PSC Plan 2,Medical Product,A0006500,PSC Medicare,613536796,PHP,Medicare Advantage HMO,Medicare,78,M,Bernalillo,87114,4506,477,4983,Rising: Total Cost $2.5k-$5k,0,1,0,3,75-84
+202501,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,2572,103,2675,Rising: Total Cost $2.5k-$5k,0,1,0,2,75-84
+202502,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,7472,182,7654,Moderate: Total Cost $5k-$9.9k,0,0,0,0,75-84
+202503,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,2973,856,3829,Rising: Total Cost $2.5k-$5k,0,1,0,1,75-84
+202504,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,1692,948,2640,Rising: Total Cost $2.5k-$5k,0,0,0,0,75-84
+202505,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,9051,114,9165,Moderate: Total Cost $5k-$9.9k,1,1,1,1,75-84
+202506,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,5682,756,6438,Moderate: Total Cost $5k-$9.9k,1,1,3,2,75-84
+202507,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,3704,203,3907,Rising: Total Cost $2.5k-$5k,0,0,0,0,75-84
+202508,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,3779,389,4168,Rising: Total Cost $2.5k-$5k,1,1,2,1,75-84
+202509,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,4653,698,5351,Moderate: Total Cost $5k-$9.9k,1,1,3,3,75-84
+202510,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,189,401,590,Low: Not high Cost,1,0,2,0,75-84
+202511,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,4963,257,5220,Moderate: Total Cost $5k-$9.9k,1,1,1,2,75-84
+202512,M00003,2127474,PSC Plan 2,Medical Product,A0006500,PSC Medicare,834542236,PHP,Medicare Advantage HMO,Medicare,80,M,Sandoval,87144,4410,948,5358,Moderate: Total Cost $5k-$9.9k,1,0,3,0,75-84
+202501,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,3488,391,3879,Rising: Total Cost $2.5k-$5k,0,1,0,2,85+
+202502,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,2408,673,3081,Rising: Total Cost $2.5k-$5k,0,1,0,2,85+
+202503,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,6695,575,7270,Moderate: Total Cost $5k-$9.9k,1,0,2,0,85+
+202504,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,6865,611,7476,Moderate: Total Cost $5k-$9.9k,1,1,1,1,85+
+202505,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,1675,414,2089,Low: Not high Cost,1,0,2,0,85+
+202506,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,9742,574,10316,High: Total Cost >= $10k,0,1,0,3,85+
+202507,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,5069,624,5693,Moderate: Total Cost $5k-$9.9k,1,0,3,0,85+
+202508,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,9577,169,9746,Moderate: Total Cost $5k-$9.9k,1,0,2,0,85+
+202509,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,7736,680,8416,Moderate: Total Cost $5k-$9.9k,0,0,0,0,85+
+202510,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,1214,270,1484,Low: Not high Cost,0,0,0,0,85+
+202511,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,5921,18,5939,Moderate: Total Cost $5k-$9.9k,1,1,1,2,85+
+202512,M00004,5826093,PSC Plan 2,Medical Product,A0006500,PSC Medicare,189904039,PHP,Medicare Advantage HMO,Medicare,96,M,Valencia,87002,2645,434,3079,Rising: Total Cost $2.5k-$5k,1,1,2,3,85+
+202501,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,6313,400,6713,Moderate: Total Cost $5k-$9.9k,0,1,0,1,85+
+202502,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,509,680,1189,Low: Not high Cost,1,0,1,0,85+
+202503,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,8091,705,8796,Moderate: Total Cost $5k-$9.9k,1,1,3,2,85+
+202504,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,2396,413,2809,Rising: Total Cost $2.5k-$5k,1,1,3,2,85+
+202505,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,4085,777,4862,Rising: Total Cost $2.5k-$5k,0,1,0,2,85+
+202506,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,3691,746,4437,Rising: Total Cost $2.5k-$5k,0,0,0,0,85+
+202507,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,7180,244,7424,Moderate: Total Cost $5k-$9.9k,0,0,0,0,85+
+202508,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,7597,400,7997,Moderate: Total Cost $5k-$9.9k,1,1,1,1,85+
+202509,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,4355,194,4549,Rising: Total Cost $2.5k-$5k,0,1,0,3,85+
+202510,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,4402,43,4445,Rising: Total Cost $2.5k-$5k,0,0,0,0,85+
+202511,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,8832,587,9419,Moderate: Total Cost $5k-$9.9k,1,1,3,2,85+
+202512,M00005,1463585,PSC Plan 2,Medical Product,A0006500,PSC Medicare,288156728,PHP,Medicare Advantage HMO,Medicare,97,F,Valencia,87068,9462,556,10018,High: Total Cost >= $10k,1,0,3,0,85+
+202501,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,4553,666,5219,Moderate: Total Cost $5k-$9.9k,0,0,0,0,65-74
+202502,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,8619,365,8984,Moderate: Total Cost $5k-$9.9k,0,1,0,1,65-74
+202503,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,611,607,1218,Low: Not high Cost,1,1,1,2,65-74
+202504,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,7907,518,8425,Moderate: Total Cost $5k-$9.9k,0,1,0,2,65-74
+202505,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,2093,206,2299,Low: Not high Cost,1,1,2,3,65-74
+202506,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,2241,397,2638,Rising: Total Cost $2.5k-$5k,0,1,0,1,65-74
+202507,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,2208,912,3120,Rising: Total Cost $2.5k-$5k,1,0,2,0,65-74
+202508,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,2275,527,2802,Rising: Total Cost $2.5k-$5k,1,1,3,1,65-74
+202509,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,2223,272,2495,Low: Not high Cost,0,1,0,1,65-74
+202510,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,8491,825,9316,Moderate: Total Cost $5k-$9.9k,1,0,3,0,65-74
+202511,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,9306,578,9884,Moderate: Total Cost $5k-$9.9k,1,1,1,2,65-74
+202512,M00006,5237674,PSC Plan 2,Medical Product,A0006500,PSC Medicare,199367443,PHP,Medicare Advantage HMO,Medicare,72,M,Santa Fe,87015,4689,609,5298,Moderate: Total Cost $5k-$9.9k,1,0,3,0,65-74
+202501,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,8225,603,8828,Moderate: Total Cost $5k-$9.9k,0,1,0,3,75-84
+202502,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,8463,541,9004,Moderate: Total Cost $5k-$9.9k,1,0,3,0,75-84
+202503,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,1062,996,2058,Low: Not high Cost,1,1,1,2,75-84
+202504,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,3070,941,4011,Rising: Total Cost $2.5k-$5k,1,0,2,0,75-84
+202505,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,8857,968,9825,Moderate: Total Cost $5k-$9.9k,1,1,3,2,75-84
+202506,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,8233,719,8952,Moderate: Total Cost $5k-$9.9k,0,1,0,2,75-84
+202507,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,8147,267,8414,Moderate: Total Cost $5k-$9.9k,0,1,0,3,75-84
+202508,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,5362,395,5757,Moderate: Total Cost $5k-$9.9k,1,1,2,1,75-84
+202509,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,8075,651,8726,Moderate: Total Cost $5k-$9.9k,0,1,0,2,75-84
+202510,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,809,38,847,Low: Not high Cost,1,0,1,0,75-84
+202511,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,7517,589,8106,Moderate: Total Cost $5k-$9.9k,1,0,3,0,75-84
+202512,M00007,5768603,PSC Plan 2,Medical Product,A0006500,PSC Medicare,957241258,PHP,Medicare Advantage HMO,Medicare,80,F,Bernalillo,87111,1873,192,2065,Low: Not high Cost,0,0,0,0,75-84
+202501,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,721,582,1303,Low: Not high Cost,1,0,2,0,85+
+202502,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,1347,351,1698,Low: Not high Cost,1,0,2,0,85+
+202503,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,7196,921,8117,Moderate: Total Cost $5k-$9.9k,0,1,0,3,85+
+202504,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,4838,553,5391,Moderate: Total Cost $5k-$9.9k,1,0,1,0,85+
+202505,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,2385,747,3132,Rising: Total Cost $2.5k-$5k,0,1,0,1,85+
+202506,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,9038,44,9082,Moderate: Total Cost $5k-$9.9k,1,1,3,3,85+
+202507,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,7831,728,8559,Moderate: Total Cost $5k-$9.9k,1,0,3,0,85+
+202508,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,3614,237,3851,Rising: Total Cost $2.5k-$5k,1,0,1,0,85+
+202509,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,6504,57,6561,Moderate: Total Cost $5k-$9.9k,1,0,3,0,85+
+202510,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,4817,358,5175,Moderate: Total Cost $5k-$9.9k,1,0,1,0,85+
+202511,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,2853,772,3625,Rising: Total Cost $2.5k-$5k,0,1,0,2,85+
+202512,M00008,7401555,PSC Plan 2,Medical Product,A0006500,PSC Medicare,528924603,PHP,Medicare Advantage HMO,Medicare,89,M,Bernalillo,87120,2210,687,2897,Rising: Total Cost $2.5k-$5k,1,1,3,1,85+
+202501,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,7583,249,7832,Moderate: Total Cost $5k-$9.9k,0,1,0,3,65-74
+202502,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,3165,172,3337,Rising: Total Cost $2.5k-$5k,0,0,0,0,65-74
+202503,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,1535,216,1751,Low: Not high Cost,1,0,2,0,65-74
+202504,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,7497,191,7688,Moderate: Total Cost $5k-$9.9k,1,0,1,0,65-74
+202505,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,4820,998,5818,Moderate: Total Cost $5k-$9.9k,0,1,0,3,65-74
+202506,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,4238,620,4858,Rising: Total Cost $2.5k-$5k,1,0,3,0,65-74
+202507,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,9672,863,10535,High: Total Cost >= $10k,1,1,1,2,65-74
+202508,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,925,137,1062,Low: Not high Cost,0,0,0,0,65-74
+202509,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,635,631,1266,Low: Not high Cost,1,0,1,0,65-74
+202510,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,4564,57,4621,Rising: Total Cost $2.5k-$5k,1,1,1,3,65-74
+202511,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,3949,253,4202,Rising: Total Cost $2.5k-$5k,0,1,0,3,65-74
+202512,M00009,5641138,PSC Plan 2,Medical Product,A0006500,PSC Medicare,904633827,PHP,Medicare Advantage HMO,Medicare,73,F,Valencia,87002,4687,748,5435,Moderate: Total Cost $5k-$9.9k,1,1,2,2,65-74
+202501,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,2731,107,2838,Rising: Total Cost $2.5k-$5k,1,0,1,0,65-74
+202502,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,9698,655,10353,High: Total Cost >= $10k,1,0,1,0,65-74
+202503,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,6171,116,6287,Moderate: Total Cost $5k-$9.9k,0,1,0,2,65-74
+202504,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,3492,8,3500,Rising: Total Cost $2.5k-$5k,0,0,0,0,65-74
+202505,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,6369,165,6534,Moderate: Total Cost $5k-$9.9k,1,0,1,0,65-74
+202506,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,5270,534,5804,Moderate: Total Cost $5k-$9.9k,1,1,3,1,65-74
+202507,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,2179,758,2937,Rising: Total Cost $2.5k-$5k,1,1,3,2,65-74
+202508,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,4478,424,4902,Rising: Total Cost $2.5k-$5k,0,0,0,0,65-74
+202509,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,105,626,731,Low: Not high Cost,1,1,3,2,65-74
+202510,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,6864,481,7345,Moderate: Total Cost $5k-$9.9k,1,1,2,3,65-74
+202511,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,3164,370,3534,Rising: Total Cost $2.5k-$5k,0,1,0,1,65-74
+202512,M00010,8476103,PSC Plan 2,Medical Product,A0006500,PSC Medicare,795340948,PHP,Medicare Advantage HMO,Medicare,72,M,Bernalillo,87105,5281,120,5401,Moderate: Total Cost $5k-$9.9k,0,0,0,0,65-74
