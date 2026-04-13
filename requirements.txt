@@ -1,0 +1,7 @@
+pandas
+matplotlib
+gradio
+groq
+python-dotenv
+reportlab
+kaleido
